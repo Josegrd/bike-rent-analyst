@@ -11,9 +11,10 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 Link App = https://8s8cv5ugzrt5janzdrszgn.streamlit.app/
 
-```
+untuk contoh gambar dari dashboard, sudah saya lampirkan +
+-Screenshot (35).png
+-Screenshot (36).png
+-Screenshot (38).png
 
-![Contoh Gambar](Screenshot (35).png)
-![Contoh Gambar](Screenshot (36).png)
-![Contoh Gambar](Screenshot (38).png)
+```
 
