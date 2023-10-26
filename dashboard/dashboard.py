@@ -28,7 +28,7 @@ def create_filtered_weather_df(df):
     filtered_weather_df = df.groupby(by="weathersit").cnt.sum().reset_index()
     return filtered_weather_df
 
-day_df = pd.read_csv("day_df_clean.csv")
+day_df = pd.read_csv("dashboard/day_df_clean.csv")
 
 datetime_columns = ["dteday"]
 day_df.sort_values(by="dteday", inplace=True)
