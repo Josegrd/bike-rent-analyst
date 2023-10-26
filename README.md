@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# GRD RENTBIKE ✨
 
 ## Setup environment
 ```
