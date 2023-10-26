@@ -11,5 +11,10 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 Link App = https://8s8cv5ugzrt5janzdrszgn.streamlit.app/
 
+
+![Contoh Gambar](Screenshot (35).png)
+![Contoh Gambar](Screenshot (36).png)
+![Contoh Gambar](Screenshot (38).png)
+
 ```
 
