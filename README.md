@@ -9,6 +9,11 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run steamlit app
 ```
+menjalankan di local =
+1. masuk ke folder sashboard
+2. streamlit run dashboard.py
+
+
 Link App = https://8s8cv5ugzrt5janzdrszgn.streamlit.app/
 
 untuk contoh gambar dari dashboard, sudah saya lampirkan +
